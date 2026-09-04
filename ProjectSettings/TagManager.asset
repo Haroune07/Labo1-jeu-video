@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Batterie
   layers:
   - Default
   - TransparentFX
@@ -43,6 +44,9 @@ TagManager:
     locked: 0
   - name: Fond
     uniqueID: 3166216941
+    locked: 0
+  - name: Murs
+    uniqueID: 355370937
     locked: 0
   - name: "D\xE9co"
     uniqueID: 733987997
