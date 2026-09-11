@@ -1,0 +1,5 @@
+Pourquoi utilise-t-on des valeurs de suivi différentes pour les trois couches de parallaxe?
+
+Car les trois couches appartiennent à trois niveax de proximité du joueur - comme dans la vraie vie, 
+lorsque on se deplace et qu'on regarde nos alentours, on remarque que les nuages ne bougent pas car ils sont très loins de nous, 
+mais que les objets qui nous sont plus proche échappe à notre vision plus rapidement.
